@@ -4,7 +4,9 @@ Sistema de compartilhamento de trabalhos acadêmicos.
 O usuário pode se cadastrar e compartilhar suas apresentações de slides, trabalhos e pesquisas realizadas durante o semestre letivo.
 
 Projeto feito em Web2py
+
 Se encontra na pasta aplication
+
 Trabalho final para a disciplica de Arquitetura de Software.
 
 
