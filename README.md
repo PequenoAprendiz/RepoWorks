@@ -1,6 +1,7 @@
 # RepoWorks
 
-Sistema de gerenciamente de trabalhos academicos, o usuário pode se cadastrar e compartilahr suas apresentações de slides, trabalhos e pesquisas realizadas durante o semestre letivo.
+Sistema de compartilhamento de trabalhos acadêmicos.
+O usuário pode se cadastrar e compartilhar suas apresentações de slides, trabalhos e pesquisas realizadas durante o semestre letivo.
 
 Projeto feito em Web2py
 Se encontra na pasta aplication
